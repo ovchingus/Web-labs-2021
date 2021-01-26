@@ -14,16 +14,16 @@ npm start
 
 ### Post
 
-![Post](/screenshots/post.png?raw=true 'Post')
+![Post](/web-lab4/screenshots/post.png?raw=true 'Post')
 
 ### Put
 
-![Put](/screenshots/put.png?raw=true 'Put')
+![Put](/web-lab4/screenshots/put.png?raw=true 'Put')
 
 ### Patch
 
-![Patch](/screenshots/patch.png?raw=true 'Patch')
+![Patch](/web-lab4/screenshots/patch.png?raw=true 'Patch')
 
 ### Get
 
-![Get](/screenshots/get.png?raw=true 'Get')
+![Get](/web-lab4/screenshots/get.png?raw=true 'Get')
